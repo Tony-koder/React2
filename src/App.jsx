@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Clicker from './components/clicker'
 import CatFacts from './components/CatFacts'
+import Users from './components/Users'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   <>
   <Clicker clicker = {Clicker}/>
   <CatFacts></CatFacts>
+  <Users></Users>
   </>
  )
   
