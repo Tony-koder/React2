@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Clicker from './components/clicker'
+import Clicker from './components/Clicker'
 import CatFacts from './components/CatFacts'
 import Users from './components/Users'
 import './App.css'
